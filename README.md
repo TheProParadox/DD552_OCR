@@ -1,7 +1,7 @@
 ## DD552 Project
 
 If you are interested in the saved model and the data set for training and testing, you can download them from my google drive 
-https://drive.google.com/drive/folders/13rIG1omeAr6DtZTTuIiiPuuUQxeXKCzr?usp=sharing
+https://drive.google.com/drive/folders/13rIG1omeAr6DtZTTuIiiPuuUQxeXKCzr?usp=sharing and https://drive.google.com/drive/folders/19rVkAcfTIkhAGYVdBwCKb0sm_pG-RrSS.. Also bounding box detection around text in scanned documents and annotation for dataset was done using ### pytesseract.
 
 
 Use app.py to run the website.
